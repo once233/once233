@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Github page! 
   <!-- knock code pictures 敲代码的图片 -->
-
+  <br><br>
   <img align="right" alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
 
 #### 🌱 Things I am currently working on: 
@@ -13,7 +13,7 @@ Welcome to my Github page!
 - Coding at least 4 hours a day
 - Improving my programming ability
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 
 - 💻 &#160; ![C++](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
