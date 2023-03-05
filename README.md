@@ -1,6 +1,6 @@
 ### Hi there 👋
 Welcome to my Github page! 
-<table align="right">
+<table align=right>
  <!-- dynamic typing effect 动态打字效果 -->
  <img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a nice day!&center=true&size=27" alt="Typing SVG" />
   <!-- knock code pictures 敲代码的图片 -->
