@@ -1,14 +1,7 @@
 ### Hi there 👋
 Welcome to my Github page! 
-<right>
-<figure>
- <!-- dynamic typing effect 动态打字效果 -->
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a nice day!&center=true&size=27" alt="Typing SVG" />
- <br>
   <!-- knock code pictures 敲代码的图片 -->
-  <img alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
- </figure>
- </right>
+  <img align=right alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
 #### 🌱 Things I am currently working on: 
 
 - Work as a corporate slave in a robot company
@@ -30,4 +23,7 @@ Welcome to my Github page!
 ![SQLITE](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+ <!-- dynamic typing effect 动态打字效果 -->
+ <img align=center src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a nice day!&center=true&size=27" alt="Typing SVG" />
 
