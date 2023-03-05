@@ -12,11 +12,11 @@ Welcome to my Github page!
 - Coding at least 4 hours a day
 - Improving my programming ability
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
 
 - 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+- 🌐 &#160; ![qml](https://img.shields.io/badge/-QML-00ff00?style=flat&logo=QML)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
