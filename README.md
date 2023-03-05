@@ -1,7 +1,7 @@
 ### Hi there 👋
 
   <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
+  <img src="https://github.com/once233/once233/blob/main/img/coding.gif" /><br>
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
