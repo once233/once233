@@ -1,5 +1,4 @@
 ### Hi there 👋
-Welcome to my Github page! 
   <!-- knock code pictures 敲代码的图片 -->
   <div align=right>
   <img align=right alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
