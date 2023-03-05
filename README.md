@@ -1,8 +1,7 @@
 ### Hi there 👋
 Welcome to my Github page! 
   <!-- knock code pictures 敲代码的图片 -->
-  <br><br>
-  <img align="right" alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
+  <img align="right" alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto" padding=“50%”/>
 
 #### 🌱 Things I am currently working on: 
 - Work as a corporate slave in a robot company
