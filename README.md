@@ -2,7 +2,6 @@
 Welcome to my Github page! 
   <!-- knock code pictures 敲代码的图片 -->
   <img align="right" vertical-align="middle" alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
-
 #### 🌱 Things I am currently working on: 
 - Work as a corporate slave in a robot company
 
@@ -14,7 +13,7 @@ Welcome to my Github page!
 
 ### 🛠 Tech Stack
 
-- 💻 &#160; ![C++](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
