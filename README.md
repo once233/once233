@@ -4,7 +4,7 @@ Welcome to my Github page!
   <div align=right>
   <img align=right alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
   <br>
-  <img align=right src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a nice day!&center=true&size=27" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a nice day!&center=true&size=27" alt="Typing SVG" />
 </div>
 
 #### 🌱 Things I am currently working on: 
