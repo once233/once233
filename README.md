@@ -3,6 +3,7 @@ Welcome to my Github page!
 <table align=right>
  <!-- dynamic typing effect 动态打字效果 -->
  <img  align=right src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Have a nice day!&center=true&size=27" alt="Typing SVG" />
+ <br>
   <!-- knock code pictures 敲代码的图片 -->
   <img align=right alt="img" src="https://github.com/once233/once233/blob/main/img/coding.gif" width="50%" height="auto"/>
 </table> 
