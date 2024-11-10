@@ -10,7 +10,6 @@
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
 - Improving my programming ability
 
 #### 🛠 Tech Stack
