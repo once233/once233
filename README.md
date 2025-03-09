@@ -15,7 +15,6 @@
 #### 🛠 Tech Stack
 
 - 💻 &#160; ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++&logoColor=007396)
-![python](https://img.shields.io/badge/-python-00a0ff?style=flat&logo=python&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 &ensp; 🌐 &#160; ![qml](https://img.shields.io/badge/-QML-00ff00?style=flat&logo=qml)
 ![Qt](https://img.shields.io/badge/-Qt-333333?style=flat&logo=qt)
