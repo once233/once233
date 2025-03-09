@@ -5,7 +5,7 @@
 </div>
 
 #### 🌱 Things I am currently working on: 
-- Work as a corporate slave in a robot company
+- Work in a robot company
 
 
 #### :muscle: Things I am challenging myself with:
